@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379637905268",
+    "firebase_url": "https://avm-plus-dad46.firebaseio.com",
+    "project_id": "avm-plus-dad46",
+    "storage_bucket": "avm-plus-dad46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379637905268:android:f24ac98b93ff31e1ed5e21",
+        "android_client_info": {
+          "package_name": "com.example.avmv005"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379637905268-j7qvm7c0i4dn3upq6b089menpi15pclm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avmv005",
+            "certificate_hash": "a77559878f48e813f63bcae8fb318cc5f1b50d98"
+          }
+        },
+        {
+          "client_id": "379637905268-4j69fs2nfvdrbrvusapg3vfjp62r2o6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sclRjeBcOQCeyd4zz0tdbjaNmeUmpHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379637905268-4j69fs2nfvdrbrvusapg3vfjp62r2o6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

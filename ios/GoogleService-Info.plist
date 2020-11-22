@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379637905268-7pb9p96tshs8pf7s9e29co75s6t0hcq7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379637905268-7pb9p96tshs8pf7s9e29co75s6t0hcq7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>379637905268-j7qvm7c0i4dn3upq6b089menpi15pclm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVBpWZJrDO3s5tIqF8rMMrFZQ62PGQRXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379637905268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.avmv005</string>
+	<key>PROJECT_ID</key>
+	<string>avm-plus-dad46</string>
+	<key>STORAGE_BUCKET</key>
+	<string>avm-plus-dad46.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379637905268:ios:03aeb67cf07cb528ed5e21</string>
+	<key>DATABASE_URL</key>
+	<string>https://avm-plus-dad46.firebaseio.com</string>
+</dict>
+</plist>
